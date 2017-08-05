@@ -1,0 +1,8 @@
+/Users/baileycook/Desktop/Coding/DojoAssignments/netCore/fundamentals1/bin/Debug/netcoreapp1.1/fundamentals1.deps.json
+/Users/baileycook/Desktop/Coding/DojoAssignments/netCore/fundamentals1/bin/Debug/netcoreapp1.1/fundamentals1.runtimeconfig.json
+/Users/baileycook/Desktop/Coding/DojoAssignments/netCore/fundamentals1/bin/Debug/netcoreapp1.1/fundamentals1.runtimeconfig.dev.json
+/Users/baileycook/Desktop/Coding/DojoAssignments/netCore/fundamentals1/bin/Debug/netcoreapp1.1/fundamentals1.dll
+/Users/baileycook/Desktop/Coding/DojoAssignments/netCore/fundamentals1/bin/Debug/netcoreapp1.1/fundamentals1.pdb
+/Users/baileycook/Desktop/Coding/DojoAssignments/netCore/fundamentals1/obj/Debug/netcoreapp1.1/fundamentals1.AssemblyInfo.cs
+/Users/baileycook/Desktop/Coding/DojoAssignments/netCore/fundamentals1/obj/Debug/netcoreapp1.1/fundamentals1.dll
+/Users/baileycook/Desktop/Coding/DojoAssignments/netCore/fundamentals1/obj/Debug/netcoreapp1.1/fundamentals1.pdb
