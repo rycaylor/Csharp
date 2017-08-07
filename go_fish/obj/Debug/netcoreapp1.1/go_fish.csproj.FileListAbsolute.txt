@@ -1,0 +1,8 @@
+/Users/baileycook/Desktop/Coding/DojoAssignments/netCore/go_fish/bin/Debug/netcoreapp1.1/go_fish.deps.json
+/Users/baileycook/Desktop/Coding/DojoAssignments/netCore/go_fish/bin/Debug/netcoreapp1.1/go_fish.runtimeconfig.json
+/Users/baileycook/Desktop/Coding/DojoAssignments/netCore/go_fish/bin/Debug/netcoreapp1.1/go_fish.runtimeconfig.dev.json
+/Users/baileycook/Desktop/Coding/DojoAssignments/netCore/go_fish/bin/Debug/netcoreapp1.1/go_fish.dll
+/Users/baileycook/Desktop/Coding/DojoAssignments/netCore/go_fish/bin/Debug/netcoreapp1.1/go_fish.pdb
+/Users/baileycook/Desktop/Coding/DojoAssignments/netCore/go_fish/obj/Debug/netcoreapp1.1/go_fish.AssemblyInfo.cs
+/Users/baileycook/Desktop/Coding/DojoAssignments/netCore/go_fish/obj/Debug/netcoreapp1.1/go_fish.dll
+/Users/baileycook/Desktop/Coding/DojoAssignments/netCore/go_fish/obj/Debug/netcoreapp1.1/go_fish.pdb
